@@ -1,3 +1,4 @@
+import "./globals.css";
 export const metadata = {
   title: "Sakura Group",
   description: "Engineering the modern world — Sakura Group Holdings",
